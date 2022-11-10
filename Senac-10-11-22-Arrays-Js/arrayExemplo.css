@@ -1,0 +1,31 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h2 {
+    color: darkorchid;
+}
+
+mark {
+    color: white;
+    background-color: darkorchid;
+}
+
+.p1,
+.p2 {
+    margin: 1%;
+    padding: 1%;
+    width: 240px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
+
+.p3 {
+    padding: 2%;
+    width: 580px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
+.imgArredondada{
+    border-radius: 5%;
+}
